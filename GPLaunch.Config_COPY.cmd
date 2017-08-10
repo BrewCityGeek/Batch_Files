@@ -1,0 +1,1 @@
+COPY "\\hrtd-fsa001\dept\GP Users\Deployment\GPLaunch.Config" "C:\GP2013\GPLaunch.Config" /Y
